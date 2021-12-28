@@ -1,0 +1,255 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.topbar{
+    width: 100%;
+    background-color: rgb(5, 114, 109);
+    padding: 10px;
+}
+.header{
+    width: 100%;
+    margin: auto;
+}
+.top1{
+     width: 45%;
+     float: left;
+     text-align: center;
+}    
+.top2{ 
+     width: 25%;
+     float: right;
+}
+.center{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: url(ice1.jpg) fixed;
+}
+.nav1{
+    padding: 1.5%;
+}
+.nav2{
+    padding: 1.5%;
+}
+.nav2 img{
+    background-color: blue;
+}
+.last{
+    width: 100%;
+    background-color: rgb(38, 51, 105);
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+}
+ul li{
+    padding: 1%;
+    color: red;
+    list-style: none;
+}
+.video{
+    padding: 5%;
+    margin: auto;
+    background-color: #e7e6e6;
+}
+.smabout{
+    width: 100%;
+    height: 20rem;
+    object-fit: cover;
+    object-position: top center;
+    margin-bottom: 1rem;
+}
+.pieces{
+    width: 100%;
+    display: flex;
+}
+.piece1{
+     width: 25%;
+     border-style: solid;
+}
+.clc1{
+      text-align: center;
+      color: blue;
+}
+.lol1{
+      text-align: center;
+}
+.piece2{
+    width: 25%;
+    border-style: solid;
+}
+.clc2{
+    text-align: center;
+    color: blue;
+}
+.lol2{
+    text-align: center;
+}
+.piece3{
+    width: 25%;
+    border-style: solid;
+}
+.clc3{
+    text-align: center;
+    color: blue;
+}
+.lol3{
+    text-align: center;
+}
+.piece4{
+    width: 25%;
+    border-style: solid;
+}
+.clc4{
+    text-align: center;
+    color: blue;
+}
+.lol4{
+    text-align: center;
+}
+.bs{
+    width: 100%;
+    background-color: #e7e6e6;
+}
+.bs1{
+    width: 100%;
+    background-color: blue;
+    color: cornsilk;
+    text-align: center;
+}
+.pic8{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.bs2{
+    display: flex;   
+}
+.bs4{
+    flex-basis: 25%;
+    margin: 16px;
+    padding: 10px;
+    border: 5px solid;
+}
+.bs4 p{
+    text-align: center;
+}
+.bs3{
+    display: flex;
+}
+.bs6{
+    flex-basis: 20%;
+    border: 5px solid;
+    margin: 16px;
+    padding: 10px;
+}
+.bs6 p{
+    text-align: center;
+}
+.select{
+    width: 100%;
+}
+.fname{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(17, 63, 105);
+    color: bisque;
+}
+.boxes{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.hc{
+    width: 30%;
+    padding: 5px;
+    background-color: blue;
+    color: blanchedalmond;
+}
+.para1{
+    background-color: white;
+    color: blue;
+}
+.hi{
+    width: 30%;
+    background-color: rgba(8, 4, 4, 0.966);
+}
+.hi p{
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+.hj{
+    width: 75%;
+    background-image:url('ice4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.base{
+    width: 100%;
+    background-image: url(ice1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.base p{
+    text-align: center;
+    padding: 30px;
+    font-weight: 900;
+}
+.ltr{
+    display: flex;
+    justify-content: space-around;
+}
+.left{
+    background-color: ivory;
+    padding: 10px;
+    margin: 10px;
+}
+.right{
+    background-color: ivory;
+    padding: 10px;
+    margin: 10px;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    background-color: burlywood;
+}
+.foot1{
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+.foot2{
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+.foot3{
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+.foot4{
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+
+     
+        
